@@ -8,7 +8,7 @@ var todos = [{
 },
 {
 	id: 2,
-	description: 'Go To Market',
+	description: 'Go To Farmers Market',
 	completed: false
 },
 {
